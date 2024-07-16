@@ -56,7 +56,7 @@
 </div>
   </div>
   <div class="row2">
-    <div class="col-md-3" style="margin-left: auto;">
+    <div class="col-md-3" style="margin-left">
         <div class="card text-center">
             <div class="card-header text-white" style="background-color: #ade0db;">
               <div class="row">
@@ -76,7 +76,8 @@
               </div>
         </div>
     </div>
-    <div class="col-md-3" style="margin-left: auto;">
+    
+    <div class="col-md-3" style="margin-left">
         <div class="card text-center">
             <div class="card-header text-white" style="background-color: #ade0db;">
               <div class="row">
